@@ -1,0 +1,10 @@
+UserID,Email,Password,Phone,Name
+1,ronak@gmail.com,b'$2b$12$pUvO1Il0AB/B/CzajnPzO.MatK2qpkZZ4Y3YWDy3geXXNxplYeL7m',9910424934,Ronak Kumar Changed
+2,jay@gmail.com,b'$2b$12$pUvO1Il0AB/B/CzajnPzO.TQpwAq7CxMxQnBgN7kb10XDjcsiU.KG',9790270870,Jay
+3,karishma@gmail.com,b'$2b$12$pUvO1Il0AB/B/CzajnPzO.yTeAo3dQCU/Xgcg7fSAhaCHd19c6Mhi',9790270870,Karishma
+4,admin@holidaytravelagency.com,b'$2b$12$pUvO1Il0AB/B/CzajnPzO.zfizaX2YEMbijvFWuZTUewvdfh9s2q2',1234567890,Admin
+5,marcos@gmail.com,b'$2b$12$pUvO1Il0AB/B/CzajnPzO.NCFZDOEOC3st4o8q/XMpNFi1dZyxLTm',9910424932,Marcos
+6,test@gmail.com,b'$2b$12$pUvO1Il0AB/B/CzajnPzO.BIaZRfxdyXulc81xFiC098lJw5x914i',8932018312,Testing Account
+7,test2@gmail.com,b'$2b$12$pUvO1Il0AB/B/CzajnPzO.BIaZRfxdyXulc81xFiC098lJw5x914i',9832983299,Testing2
+8,newuser@gmail.com,b'$2b$12$pUvO1Il0AB/B/CzajnPzO..Sg.2/mAJdC0B6Nb89tr.D6iyYNXirS',9999999999,New User
+9,newuser2@gmail.com,b'$2b$12$pUvO1Il0AB/B/CzajnPzO..Sg.2/mAJdC0B6Nb89tr.D6iyYNXirS',8932819389,New User 2
